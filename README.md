@@ -1,13 +1,9 @@
-# co35d451f86c4811f7c6c99e0
+# Password-Generator
+- [Netlify link](https://inspiring-eclair-2a33d2.netlify.app)
+<div align="center">
+<img width="375"alt="Ekran Resmi 2022-11-15 09 45 52" src="https://user-images.githubusercontent.com/69525712/201848072-b1cba66a-4330-4365-99e0-4a7a15136173.png">
+</div>
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
@@ -19,4 +15,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
-# Password-Generator
+
